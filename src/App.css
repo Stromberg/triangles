@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+table {
+    table-layout: fixed;
+}
+
+.LengthTitle {
+    width: 80px;
+}
+
+.LengthInput {
+    width: 120px;
+}
+
+.LengthError {
+    width: 300px;
+}
