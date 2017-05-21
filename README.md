@@ -3,7 +3,7 @@
 With npm installed just run:
 
 ```
-npm init
+npm install
 ```
 
 To run:
